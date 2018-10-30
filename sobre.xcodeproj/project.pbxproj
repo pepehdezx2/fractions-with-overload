@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		189494EC205BFB4A006BAA38 /* sobre */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sobre; sourceTree = BUILT_PRODUCTS_DIR; };
 		189494EF205BFB4B006BAA38 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		189494F6205BFB86006BAA38 /* Fraccion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fraccion.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		189494E3205BFB4A006BAA38 = {
 			isa = PBXGroup;
 			children = (
+				189494F6205BFB86006BAA38 /* Fraccion.h */,
 				189494EE205BFB4B006BAA38 /* sobre */,
 				189494ED205BFB4A006BAA38 /* Products */,
 			);
